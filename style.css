@@ -98,7 +98,7 @@ p {
 form {
   margin-top: 20px;
   width: 400px;
-  background-color: rgb(112, 112, 112);
+  background-color: rgba(121, 121, 121, 0.25);
   
  
 }
