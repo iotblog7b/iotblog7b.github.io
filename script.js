@@ -20,7 +20,8 @@ localStorage.setItem(storeScore,"null");
     highScore=localStorage.getItem(storeScore);
     whichBar=localStorage.getItem(storeName);
     if(whichBar==="null" || highScore==="null"){
-        alert("Hello.. This is your first game");
+        alert("Hello.. This is your first game. WARNING!!! This game works only using a keyboard.");
+        alert("CONTROLS: wasd or arrow keys");
         highScore=0;
         whichBar=thisBar1;
     }
