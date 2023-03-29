@@ -21,7 +21,7 @@ localStorage.setItem(storeScore,"null");
     whichBar=localStorage.getItem(storeName);
     if(whichBar==="null" || highScore==="null"){
         alert("Hello.. This is your first game. WARNING!!! This game works only using a keyboard.");
-        alert("CONTROLS: wasd or arrow keys");
+        alert("CONTROLS: wasd or arrow keys.");
         highScore=0;
         whichBar=thisBar1;
     }
