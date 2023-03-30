@@ -21,7 +21,7 @@
     display: flex;
     justify-content: center;
     width:150px;
-    background-color: seagreen;
+    background-color: red;
     border-radius: 10px;
     /* border:1px solid black; */
     position: fixed;
@@ -41,4 +41,7 @@
     font-weight: bold;
     bottom: 0%;
     left:50%;
+}
+#body{
+    background:blue;
 }
