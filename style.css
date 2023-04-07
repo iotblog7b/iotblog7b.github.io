@@ -13,8 +13,8 @@ body {
   width: 1000px;
   margin-left:auto;/*centering the page*/
   margin-right:auto;/*centering the page*/
-  border: 3px solid #000000;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
-  background-color: #ffffff;
+  border: 3px solid #1c2e67;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
+  background-color: #152045;
 
 }
  
