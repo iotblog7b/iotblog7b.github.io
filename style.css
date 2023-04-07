@@ -1,6 +1,6 @@
 body {
  
-  font-family: 'Quicksand', sans-serif; 
+  font-family: 'Quicksand', motiva-sans; 
   background: #152045;
   background-image: radial-gradient(#1b2d66 3px, transparent 0);
   background-size: 40px 40px;
@@ -71,19 +71,19 @@ a:hover {
 
 i{
   font-size: 0.7cm;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', motiva-sans;
 }
 
 
 q{
   font-size: 0cm;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', motiva-sans;
 }
  
 p {
   text-align: center;
   font-size: 0.9cm;
-  font: 'Quicksand', sans-serif;;
+  font: 'Quicksand', motiva-sans;;
   }
  
 #contact{
