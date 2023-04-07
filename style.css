@@ -2,7 +2,7 @@ body {
  
   font-family: motiva-sans, sans-serif;
   font-style: normal;
-  font-weight: 400; 
+  font-weight: bold; 
   background: #152045;
   background-image: radial-gradient(#1b2d66 3px, transparent 0);
   background-size: 40px 40px;
@@ -75,7 +75,7 @@ i{
   font-size: 0.7cm;
   font-family: motiva-sans, sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
 }
 
 
@@ -89,7 +89,7 @@ p {
   font-size: 0.9cm;
   font-family: motiva-sans, sans-serif;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   }
  
 #contact{
