@@ -17,37 +17,8 @@ body {
   margin-right:auto;/*centering the page*/
   border: 3px solid #000000;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
   background-color: #12470c;
-  position: fixed;
-  overflow: hidden;
-  pointer-events: none;
-  
 
-}
-.bubble{
-  height: max(300px, 30vw);
-  width: max(300px, 30vw);
-  
-  background-color: #12470c;
-  border-radius: 100%;
-  
-  position: absolute;
-  left: 50%
-  top: 100%
-  
-  animation: wave 2s ease-in-out infinite;
-
-}
-
-@keyframes wave {
- from, to {
-   transform: translate(-50%, 0%);
- }
- 50%{
-   transform: translate(-50%, -20%);
- }
-}
-
-
+}        
 
 #sastavak{
   font-family: motiva-sans, sans-serif;
