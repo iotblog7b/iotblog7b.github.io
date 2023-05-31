@@ -1,34 +1,41 @@
 body {
  
-  font-family: 'Quicksand', sans-serif; 
-  background-repeat: no-repeat;
-  background-position: center; 
-  background-attachment: fixed;
-  
-  background-image:radial-gradient(#d9fa63,#b3fa63,#295e05);
+  font-family: motiva-sans, sans-serif;
+  font-style: normal;
+  font-weight: bold; 
+  background: #081e05;
+  background-image: radial-gradient(#12470c 3.5px, transparent 0);
+  background-size: 40px 40px;
+  background-position: -19px -19px;
+  color: #ffffff;   
 
-  
-  background-repeat: repeat;
-  margin: 25px;
 }
  
 #wholePage{
   width: 1000px;
-  margin-left:auto;/*centering the page*/
+  margin-left:auto;/*centering thea page*/
   margin-right:auto;/*centering the page*/
   border: 3px solid #000000;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
-  background-color: #ffffff;
+  background-color: #12470c;
 
-}
- 
+}        
+
+#sastavak{
+  font-family: motiva-sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+
+} 
  
 
  
 #logo {
   display: block;
-  width:300px;
+  width:500px;
   margin-left: auto;
   margin-right: auto;
+
 }
  
  
@@ -36,8 +43,8 @@ body {
   width: 700px;
   margin-left:auto;
   margin-right:auto;
-  border-top: 2px solid #000;
-  border-bottom: 1px solid #000;
+  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #ffffff;
   padding:10px;
   text-align: center;
  }
@@ -50,7 +57,7 @@ li {
  
  
 a {
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   text-decoration: none;
  
@@ -72,20 +79,34 @@ a:hover {
 
 i{
   font-size: 0.7cm;
-  font-family: 'Quicksand', sans-serif;
+  font-family: motiva-sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
 }
 
 
 q{
   font-size: 0cm;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', motiva-sans;
 }
  
 p {
   text-align: center;
   font-size: 0.9cm;
-  font: 'Quicksand', sans-serif;;
+  font-family: motiva-sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
   }
+ps {
+  text-align: center;
+  font-size: 12px;
+  font-family: motiva-sans, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  color: #ffffff;
+  }
+  
  
 #contact{
  
