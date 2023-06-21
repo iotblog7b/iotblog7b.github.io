@@ -111,7 +111,7 @@ p {
   font-style: normal;
   font-weight: bold;
   color: #ffffff;
-  margin: 30px;
+  border-radius: 30px;
   }
   
  
@@ -146,7 +146,7 @@ form input,form select{
 textarea{
   width: 330px;
   font-size:20px;
-  resize: none; 
+  resize: none;
  
 }
  
