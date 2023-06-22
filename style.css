@@ -14,8 +14,8 @@ body {
  
 #wholePage{
   width: 1000px;
-  margin-left:auto;/*centering thea page*/
-  margin-right:auto;/*centering the page*/
+  margin-left:10%;/*centering thea page*/
+  margin-right:10%;/*centering the page*/
   border: 3px solid #000000;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
   background-color: #12470c;
 
