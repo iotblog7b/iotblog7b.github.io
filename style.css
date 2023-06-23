@@ -39,7 +39,9 @@ body {
 
 } 
  
-
+#buttons {
+  color: 'black';
+}
  
 #logo {
   display: block;
