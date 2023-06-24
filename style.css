@@ -1,5 +1,3 @@
-
-
 :root {
   --primBackgrdColor: #081e05;
 }
@@ -15,16 +13,14 @@ body {
   background-size: 40px 40px;
   background-position: -19px -19px;
   color: #ffffff;
-  margin-left: 10%;   
-  margin-right: 10%;
+  width: 50%;
+  margin: auto;
 }
  
 
 
 #wholePage{
   width: 1000px;
-  margin-left:50px;/*centering thea page*/
-  margin-right:50px;/*centering the page*/
   border: 3px solid #000000;/*we add a frame by the way, then the students will actually see this box, instead of double it can be: solid, dotted, dashed*/
   background-color: #12470c;
 
